@@ -1,0 +1,5 @@
+{
+  "name": "Atomic Mass Master",
+  "description": "An interactive chemistry activity to calculate average atomic mass from isotopic abundance data, featuring real-time validation and data visualization.",
+  "requestFramePermissions": []
+}
